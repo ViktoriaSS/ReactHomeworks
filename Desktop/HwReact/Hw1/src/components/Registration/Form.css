@@ -1,0 +1,36 @@
+.formHolder {
+    margin: 20px auto;
+}
+
+.form input {
+    display: block;
+    background: #caebed;
+    width: 50%;
+    padding: 2px 20px;
+    margin: 10px auto;
+    line-height: 20px;
+    border-width: 0;
+    border-radius: 20px;
+    outline: none;
+}
+
+.form button {
+    width: 50%;
+    padding: 0 20px;
+    margin: 20px auto;
+    background: #fc9ff0;
+    line-height: 40px;
+    outline: none;
+    cursor: pointer;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 280px;
+    margin: 0 auto;
+    background: url(https://www.meme-arsenal.com/memes/493caab57dba88f65422d54a0d6cef71.jpg);
+    background-size: cover;
+    background-position: center;
+}

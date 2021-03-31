@@ -1,0 +1,11 @@
+.Ball {
+    width: 120px;
+    height: 120px;
+    background: #5385b8;
+    border-radius: 50%;
+    transition: transform 2s linear;
+}
+
+.Ball:hover {
+    transform: translateX(650px);
+}
