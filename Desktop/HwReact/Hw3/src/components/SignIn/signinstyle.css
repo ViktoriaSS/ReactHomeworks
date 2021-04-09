@@ -1,0 +1,40 @@
+.form {
+    position: relative;
+    max-width: 350px;
+    margin: 100px auto;
+    background: #e892b3;
+    border-radius: 15px;
+}
+
+.formInputs {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 50px;
+}
+
+.formInputs input {
+    display: block;
+    width: 70%;
+    padding: 0 30px;
+    margin: 10px;
+    background: #ba3467;
+    line-height: 40px;
+    border-width: 0;
+    border-radius: 25px;
+    outline: none;
+}
+
+.button {
+    width: 200px;
+    margin: 10px;
+    background: #ba3467;
+    line-height: 30px;
+    border-width: 0;
+    border-radius: 25px;
+    color: #000;
+    outline: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+

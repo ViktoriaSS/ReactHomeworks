@@ -1,0 +1,14 @@
+.table {
+    margin-top: 10px;
+    border: 2px solid deeppink;
+    width: 200px;
+    height: 400px;
+    font-size: 15px;
+}
+
+td {
+    border: 2px solid mediumvioletred;
+    background-color: lightpink;
+    text-align: center;
+}
+
